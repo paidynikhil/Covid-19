@@ -5,11 +5,10 @@
 /.pnp
 .pnp.js
 /app
-/gradle
-/.gradle
+/gradle/
+/.gradle/
 android.keystore/
-/android.keystore
-/app-release-bundle.aab
+/android.keystor
 /app-release-signed.apk
 /app-release-signed.apk.idsig
 /app-release-unsigned-aligned.apk
@@ -19,6 +18,7 @@ android.keystore/
 /gradlew.bat
 /manifest-checksum.txt
 /settings.gradle
+/app-release-bundle.aab
 # testing
 /coverage
 
