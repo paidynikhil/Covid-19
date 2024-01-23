@@ -4,21 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/app
-/gradle/
-/.gradle/
-android.keystore/
-/android.keystor
-/app-release-signed.apk
-/app-release-signed.apk.idsig
-/app-release-unsigned-aligned.apk
-/build.gradle
-/gradle.properties
-/gradlew
-/gradlew.bat
-/manifest-checksum.txt
-/settings.gradle
-/app-release-bundle.aab
 # testing
 /coverage
 
